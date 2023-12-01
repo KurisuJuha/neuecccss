@@ -7,8 +7,7 @@
     "content_scripts": [
         {
             "matches": ["https://neue.cc/*"],
-            "css": ["style.css"],
-            "js": ["script.js"]
+            "css": ["style.css"]
         }
     ]
 }
